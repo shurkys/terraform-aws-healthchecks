@@ -1,3 +1,11 @@
+# Healthchecks on AWS Fargate Terraform Module
+
+[![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
+
+[Healthchecks.io](https://healthchecks.io) is a service for monitoring cron jobs and similar periodic processes:
+
+Based on [terraform-aws-atlantis](https://github.com/terraform-aws-modules/terraform-aws-atlantis "terraform-aws-atlantis")
+
 <!-- BEGIN_TF_DOCS -->
 ## Requirements
 
